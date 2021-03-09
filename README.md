@@ -1,7 +1,5 @@
 # JUnit
 
--------
-
 JUnit es un marco de prueba de Java y un proyecto de código abierto alojado en Github. 
 JUnit 5 (también conocido como Jupiter) es la última versión importante de JUnit. Consta de varios componentes discretos:
 
